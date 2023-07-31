@@ -1,0 +1,15 @@
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\8.Двумерные массивы. Продолжение\Homework\Exercise 59\bin\Debug\net7.0\Exercise 59.exe
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\8.Двумерные массивы. Продолжение\Homework\Exercise 59\bin\Debug\net7.0\Exercise 59.deps.json
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\8.Двумерные массивы. Продолжение\Homework\Exercise 59\bin\Debug\net7.0\Exercise 59.runtimeconfig.json
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\8.Двумерные массивы. Продолжение\Homework\Exercise 59\bin\Debug\net7.0\Exercise 59.dll
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\8.Двумерные массивы. Продолжение\Homework\Exercise 59\bin\Debug\net7.0\Exercise 59.pdb
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\8.Двумерные массивы. Продолжение\Homework\Exercise 59\obj\Debug\net7.0\Exercise 59.csproj.AssemblyReference.cache
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\8.Двумерные массивы. Продолжение\Homework\Exercise 59\obj\Debug\net7.0\Exercise 59.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\8.Двумерные массивы. Продолжение\Homework\Exercise 59\obj\Debug\net7.0\Exercise 59.AssemblyInfoInputs.cache
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\8.Двумерные массивы. Продолжение\Homework\Exercise 59\obj\Debug\net7.0\Exercise 59.AssemblyInfo.cs
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\8.Двумерные массивы. Продолжение\Homework\Exercise 59\obj\Debug\net7.0\Exercise 59.csproj.CoreCompileInputs.cache
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\8.Двумерные массивы. Продолжение\Homework\Exercise 59\obj\Debug\net7.0\Exercise 59.dll
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\8.Двумерные массивы. Продолжение\Homework\Exercise 59\obj\Debug\net7.0\refint\Exercise 59.dll
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\8.Двумерные массивы. Продолжение\Homework\Exercise 59\obj\Debug\net7.0\Exercise 59.pdb
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\8.Двумерные массивы. Продолжение\Homework\Exercise 59\obj\Debug\net7.0\Exercise 59.genruntimeconfig.cache
+C:\Users\gadik\OneDrive\Рабочий стол\QA\3.Знакомство с языками программирования\Семинары\8.Двумерные массивы. Продолжение\Homework\Exercise 59\obj\Debug\net7.0\ref\Exercise 59.dll
